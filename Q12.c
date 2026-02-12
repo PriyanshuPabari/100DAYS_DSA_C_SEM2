@@ -6,6 +6,7 @@ int main() {
 
     int a[100][100];
 
+    
     // Read matrix
     for(int i = 0; i < m; i++) {
         for(int j = 0; j < n; j++) {
