@@ -4,6 +4,7 @@ int main() {
     int m, n;
 
     // Read rows and columns
+    
     scanf("%d %d", &m, &n);
 
     int A[m][n], B[m][n], C[m][n];
